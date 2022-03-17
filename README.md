@@ -6,4 +6,4 @@
 - 💬 Ask me about ... Molecular Gastronomy
 - 📫 How to reach me: ... [My Website](https://phoenix-staley.github.io/phoenix-staley-portfolio/)
 - 😄 Pronouns: ... They/Them
-- ⚡ Fun fact: ... I studied Culinary Arts for a year
+- 🗣️ Fun fact: ... I speak 4 languages
