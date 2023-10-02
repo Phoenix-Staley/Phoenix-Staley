@@ -4,4 +4,4 @@
 - 🌱 I’m currently learning ... GraphQL
 - 💬 Ask me about ... Game Development
 - 📫 How to reach me: ... [Email](mailto:PhoenixStaley_Developer@outlook.com) or my [portfolio](https://phoenix-staley.github.io/myReactPortfolio/)
-- 🗣️ Fun fact: ... I studied culinary arts for 1.5 years before switching to Computer Science
+- 🗣️ Fun fact: ... I studied culinary arts before switching to Computer Science
